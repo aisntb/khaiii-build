@@ -1,0 +1,16 @@
+/home/hisnty/khaiii/build/CMakeFiles/edit_cache.dir
+/home/hisnty/khaiii/build/CMakeFiles/install/local.dir
+/home/hisnty/khaiii/build/CMakeFiles/test.dir
+/home/hisnty/khaiii/build/CMakeFiles/package_source.dir
+/home/hisnty/khaiii/build/CMakeFiles/package_python.dir
+/home/hisnty/khaiii/build/CMakeFiles/install.dir
+/home/hisnty/khaiii/build/CMakeFiles/khaiii.dir
+/home/hisnty/khaiii/build/CMakeFiles/list_install_components.dir
+/home/hisnty/khaiii/build/CMakeFiles/bin_khaiii.dir
+/home/hisnty/khaiii/build/CMakeFiles/package.dir
+/home/hisnty/khaiii/build/CMakeFiles/large_resource.dir
+/home/hisnty/khaiii/build/CMakeFiles/rebuild_cache.dir
+/home/hisnty/khaiii/build/CMakeFiles/test_khaiii.dir
+/home/hisnty/khaiii/build/CMakeFiles/install/strip.dir
+/home/hisnty/khaiii/build/CMakeFiles/obj_khaiii.dir
+/home/hisnty/khaiii/build/CMakeFiles/resource.dir

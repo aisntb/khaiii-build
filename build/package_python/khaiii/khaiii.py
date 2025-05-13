@@ -1,0 +1,1 @@
+/home/hisnty/khaiii/src/main/python/khaiii/khaiii.py
